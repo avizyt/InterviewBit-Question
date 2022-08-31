@@ -4,19 +4,18 @@
 
 ## I use _**VScode**_ for this coding problems.
 
-## If you want you can use _**Intellij**_ also.
+## You can also use [_**Intellij**_](https://www.jetbrains.com/idea/)
 
 VSCode Setup:
 
-    1. Install [Java](https://www.oracle.com/java/technologies/downloads/#java17)
+1. Install [**_Java_**](https://www.oracle.com/java/technologies/downloads/#java17)
 
+2. Set up you **_JDK Environment_** according to your system.
 
-    1. Set up you JDK environment according to your system.
+3. Install [**_VSCode_**](https://code.visualstudio.com/)
 
-    2. Install [VSCode](https://code.visualstudio.com/)
+4. Then go to VSCode **Extentions Tab** and Search **Etension Pack for Java**. Click **Install** and It will install all the necessary tools for developing java in VSCode.
 
-    3. Then go to VSCode Extentions and Search EXtension Pack for Java. Click Install and It will install all the necessary tools for developing java in VSCode.
+5. And also Install **Code Runner** from Extensions.
 
-    4. And also Install Code Runner from Extensions.
-
-    5. You all set to do Coding java in VScode.
+### You all set to do Coding Java in VScode
